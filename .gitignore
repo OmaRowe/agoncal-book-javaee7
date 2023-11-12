@@ -1,8 +1,8 @@
 .DS_Store
 .idea
-!.log
-*.jdbc
-*.iml
+#.log
+!.jdbc
+ .iml
 target
 *.class
 *.jar
@@ -29,4 +29,4 @@ teamworkUser.xml
 projectFilesBackup*
 create.sql
 drop.sql
-!
+!*
